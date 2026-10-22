@@ -1,1 +1,3 @@
 screens/
+node_modules
+dist
