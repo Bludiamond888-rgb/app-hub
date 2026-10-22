@@ -4,5 +4,6 @@
  {"name":"Stock Desk","url":"https://bludiamond888-rgb.github.io/stock-desk/","icon":"icons/apps/stock.png","desc":"Warehouse inventory: scan in/out, QR labels, containers, sales.","status":"Live","color":"#f59e0b"},
  {"name":"Speed Meter","url":"https://bludiamond888-rgb.github.io/lanecast/","icon":"icons/apps/lanecast.png","desc":"GPS speedometer for the Tesla.","status":"Live","color":"#ef4444"},
  {"name":"Hanzi Path","url":"https://bludiamond888-rgb.github.io/hanzi-path/","icon":"icons/apps/hanzi.png","desc":"Learn to write HSK 1 Chinese characters, stroke by stroke.","status":"Live","color":"#58cc02"},
+ {"name":"Wheel Tracker","url":"https://bludiamond888-rgb.github.io/wheel-tracker/","icon":"icons/apps/wheel.png","desc":"Options wheel: puts, assignment, covered calls, premium and returns.","status":"Live","color":"#6366f1"},
  {"name":"Quick Translate","url":"","icon":"","desc":"Quick translation tool.","status":"On hold","color":"#8b5cf6"}
 ]
