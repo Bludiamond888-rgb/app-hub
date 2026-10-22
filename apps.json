@@ -7,6 +7,7 @@
  {"name":"Wheel Tracker","url":"https://bludiamond888-rgb.github.io/wheel-tracker/","icon":"icons/apps/wheel.png","desc":"Options wheel: puts, assignment, covered calls, premium and returns.","status":"Live","color":"#d4af37"},
  {"name":"Back of a Napkin","url":"https://bludiamond888-rgb.github.io/napkin/","icon":"icons/apps/napkin.png","desc":"Rental deal napkin math: cash flow, CoC, cap rate, 1% rule, verdict.","status":"Live","color":"#1f3fa8"},
  {"name":"Earnings Flow","url":"https://bludiamond888-rgb.github.io/earnings-flow/","icon":"icons/apps/earnings.png","desc":"Where the money goes: income-statement flowcharts from SEC filings.","status":"Live","color":"#16a34a"},
+ {"name":"Dividend Flow","url":"https://bludiamond888-rgb.github.io/dividend-flow/","icon":"icons/apps/dividend.png","desc":"Dividend income: flow chart, pay calendar, payout safety, snowball.","status":"Live","color":"#0d9488"},
  {"name":"Quick Translate","url":"","icon":"","desc":"Quick translation tool.","status":"On hold","color":"#8b5cf6"},
  {"name":"Charge Meter","url":"","icon":"","desc":"iPhone charging speed tracker (%/min, time to full).","status":"On hold","color":"#22c55e"}
 ]
