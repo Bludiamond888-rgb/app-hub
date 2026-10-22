@@ -1,7 +1,7 @@
 [
- {"name":"Futures Desk","url":"https://futures-desk.netlify.app","icon":"icons/apps/futures.png","desc":"Futures calculator, trade journal, prop firm rules and prices.","status":"Live","color":"#3b82f6"},
- {"name":"Rent Tracker","url":"https://rent-tracker-jl.netlify.app","icon":"icons/apps/rent.png","desc":"Properties, leases, rent ledger, bills.","status":"Live","color":"#10b981"},
- {"name":"Stock Desk","url":"https://stock-desk-jl.netlify.app","icon":"icons/apps/stock.png","desc":"Warehouse inventory: scan in/out, QR labels, containers, sales.","status":"Live","color":"#f59e0b"},
- {"name":"Lanecast","url":"https://lanecast-jl.netlify.app","icon":"icons/apps/lanecast.png","desc":"GPS speedometer for the Tesla.","status":"Live","color":"#ef4444"},
+ {"name":"Futures Desk","url":"https://bludiamond888-rgb.github.io/futures-desk/","icon":"icons/apps/futures.png","desc":"Futures calculator, trade journal, prop firm rules and prices.","status":"Live","color":"#3b82f6"},
+ {"name":"Rent Tracker","url":"https://bludiamond888-rgb.github.io/rent-tracker/","icon":"icons/apps/rent.png","desc":"Properties, leases, rent ledger, bills.","status":"Live","color":"#10b981"},
+ {"name":"Stock Desk","url":"https://bludiamond888-rgb.github.io/stock-desk/","icon":"icons/apps/stock.png","desc":"Warehouse inventory: scan in/out, QR labels, containers, sales.","status":"Live","color":"#f59e0b"},
+ {"name":"Lanecast","url":"https://bludiamond888-rgb.github.io/lanecast/","icon":"icons/apps/lanecast.png","desc":"GPS speedometer for the Tesla.","status":"Live","color":"#ef4444"},
  {"name":"Quick Translate","url":"","icon":"","desc":"Quick translation tool.","status":"On hold","color":"#8b5cf6"}
 ]
