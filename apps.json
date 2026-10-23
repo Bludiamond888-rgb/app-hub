@@ -12,6 +12,7 @@
  {"name":"Dividend Flow","url":"https://bludiamond888-rgb.github.io/dividend-flow/","icon":"icons/apps/dividend.png","desc":"Dividend income: flow chart, pay calendar, payout safety, snowball.","status":"Live","color":"#0d9488"},
  {"name":"Savings Split","url":"https://bludiamond888-rgb.github.io/savings-split/","icon":"icons/apps/savings.png","desc":"Savings balance split by source: scholarship, loan, personal.","status":"Live","color":"#0f766e"},
  {"name":"Subscription Tracker","url":"https://bludiamond888-rgb.github.io/subscription-tracker/","icon":"icons/apps/subs.png","desc":"Recurring charges, renewals, totals, what to cancel.","status":"Live","color":"#4c1d95"},
+ {"name":"Recipe Box","url":"https://bludiamond888-rgb.github.io/recipe-box/","icon":"icons/apps/recipes.png","desc":"Your recipes with photos, serving scaler, cook mode, shopping list.","status":"Live","color":"#C8472A"},
  {"name":"Quick Translate","url":"","icon":"","desc":"Quick translation tool.","status":"On hold","color":"#8b5cf6"},
  {"name":"Charge Meter","url":"","icon":"","desc":"iPhone charging speed tracker (%/min, time to full).","status":"On hold","color":"#22c55e"}
 ]
