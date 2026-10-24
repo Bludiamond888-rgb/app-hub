@@ -5,7 +5,6 @@
  {"name":"Stock Desk","url":"https://bludiamond888-rgb.github.io/stock-desk/","icon":"icons/apps/stock.png","desc":"Warehouse inventory: scan in/out, QR labels, containers, sales.","status":"Live","color":"#f59e0b"},
  {"name":"Speed Meter","url":"https://bludiamond888-rgb.github.io/lanecast/","icon":"icons/apps/lanecast.png","desc":"GPS speedometer for the Tesla.","status":"Live","color":"#ef4444"},
  {"name":"Hanzi Path","url":"https://bludiamond888-rgb.github.io/hanzi-path/","icon":"icons/apps/hanzi.png","desc":"Learn to write HSK 1 Chinese characters, stroke by stroke.","status":"Live","color":"#c8372d"},
- {"name":"Hanzi Flashcards","url":"https://bludiamond888-rgb.github.io/hanzi-flashcards/","icon":"icons/apps/flashcards.png","desc":"Daily spaced-repetition flashcards for HSK 1 characters.","status":"Live","color":"#1b1a17"},
  {"name":"Wheel Tracker","url":"https://bludiamond888-rgb.github.io/wheel-tracker/","icon":"icons/apps/wheel.png","desc":"Options wheel: puts, assignment, covered calls, premium and returns.","status":"Live","color":"#d4af37"},
  {"name":"Back of a Napkin","url":"https://bludiamond888-rgb.github.io/napkin/","icon":"icons/apps/napkin.png","desc":"Rental deal napkin math: cash flow, CoC, cap rate, 1% rule, verdict.","status":"Live","color":"#1f3fa8"},
  {"name":"Earnings Flow","url":"https://bludiamond888-rgb.github.io/earnings-flow/","icon":"icons/apps/earnings.png","desc":"Where the money goes: income-statement flowcharts from SEC filings.","status":"Live","color":"#16a34a"},
