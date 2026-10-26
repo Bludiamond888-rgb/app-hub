@@ -75,7 +75,7 @@
   "name": "Deal Flow",
   "url": "https://bludiamond888-rgb.github.io/deal-flow/",
   "icon": "icons/apps/deal-flow.png",
-  "desc": "Multifamily BOE as a cash-flow Sankey: GPR \u2192 NOI \u2192 BTCF, Cap/CoC/IRR.",
+  "desc": "Multifamily BOE as a cash-flow Sankey: GPR → NOI → BTCF, Cap/CoC/IRR.",
   "status": "Live",
   "color": "#0f172a"
  },
@@ -118,6 +118,14 @@
   "desc": "Your recipes with photos, serving scaler, cook mode, shopping list.",
   "status": "Live",
   "color": "#C8472A"
+ },
+ {
+  "name": "PopRush",
+  "url": "https://bludiamond888-rgb.github.io/pop-rush/",
+  "icon": "icons/apps/pop-rush.png",
+  "desc": "Tap matching color clusters to clear them. Combos stack. Gravity fills.",
+  "status": "Live",
+  "color": "#e11d48"
  },
  {
   "name": "Quick Translate",
