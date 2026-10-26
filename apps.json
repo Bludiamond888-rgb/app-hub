@@ -72,6 +72,14 @@
   "color": "#0b1f3a"
  },
  {
+  "name": "Deal Flow",
+  "url": "https://bludiamond888-rgb.github.io/deal-flow/",
+  "icon": "icons/apps/deal-flow.png",
+  "desc": "Multifamily BOE as a cash-flow Sankey: GPR \u2192 NOI \u2192 BTCF, Cap/CoC/IRR.",
+  "status": "Live",
+  "color": "#0f172a"
+ },
+ {
   "name": "Earnings Flow",
   "url": "https://bludiamond888-rgb.github.io/earnings-flow/",
   "icon": "icons/apps/earnings.png",
